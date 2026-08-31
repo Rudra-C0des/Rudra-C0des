@@ -1,5 +1,4 @@
 ## Hi, I'm Rudra Patel
----
 
 ### 🔗 Contact
 
@@ -11,11 +10,6 @@
 
  <a href="https://www.linkedin.com/in/rudra-patel-843268345/">
     <img src="https://www.svgrepo.com/show/57068/linkedin.svg" width="50" alt="LinkedIn" />
-  </a>
-  &nbsp;
-
-  <a href="https://github.com/Rudra-C0des">
-    <img src="https://cdn.simpleicons.org/github/181717" width="50" alt="GitHub" />
   </a>
   &nbsp;
 
