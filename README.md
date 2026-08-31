@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Rudra Patel
+---
 
-<!--
-**Rudra-C0des/Rudra-C0des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔗 Contact
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:rudrapatel1440@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Email" />
+  </a>
+  &nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href="https://www.linkedin.com/in/rudra-patel-843268345/">
+    <img src="https://www.svgrepo.com/show/57068/linkedin.svg" width="50" alt="LinkedIn" />
+  </a>
+  &nbsp;
+
+  <a href="https://github.com/Rudra-C0des">
+    <img src="https://cdn.simpleicons.org/github/181717" width="50" alt="GitHub" />
+  </a>
+  &nbsp;
+
+  <a href="https://google.com">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="50" alt="Website" />
+  </a>
+</p>
