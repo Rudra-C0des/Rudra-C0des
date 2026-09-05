@@ -1,4 +1,22 @@
-## Hi, I'm Rudra Patel
+# Konnichiwa 
+
+## About me :
+
+#### - Hi, I'm an 18-year-old developer deeply passionate about Machine Learning and AI.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Rudra-C0des/Rudra-C0des/blob/main/Assets/15682.gif">
+
+### - Learning :
+-> Data Structures & Algorithms
+<br>
+-> Generative Adversarial Networks
+
+### - Hobbies : 
+-> Chess
+<br>
+-> Watching Anime
+<br>
+-> Reading Light Novels
 
 ### 🔗 Contact
 
